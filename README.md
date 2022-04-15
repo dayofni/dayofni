@@ -1,5 +1,5 @@
 Hello world! I'm *dayofni*, a Python geek who makes plenty of unfinished products.
-I use **they/she** pronouns.
+I use **they/them** pronouns.
 Have a great day, random human!
 
 - QOTD: 
