@@ -1,4 +1,4 @@
-Hello world! I'm *dayofni*, a nerd who occasionally makes a cool thing. 
+Hello world! I'm *dayofni*, welcome to my profile!  
 I make random things in Python, so I apologise in advance :)  
 Have a great day, random human!  
   
